@@ -1,0 +1,16 @@
+.note{
+    font-size: 18px;
+    color: cadetblue;
+}
+.heading{
+    padding: 15px;
+    margin: 50px;
+    box-shadow: 10px 20px 50px darkgoldenrod;
+}
+canvas{
+    border: darkorchid;
+}
+.song_name{
+    color: dimgray;
+    font-size: 15px;
+}
